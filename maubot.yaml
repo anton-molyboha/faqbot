@@ -8,3 +8,4 @@ main_class: FAQBot
 config: true
 extra_files:
   - base-config.yaml
+  - LICENSE
