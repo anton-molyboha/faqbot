@@ -1,0 +1,10 @@
+maubot: 0.4.1
+id: me.molyboha.anton.faqbot
+version: 0.0.1
+license: AGPL3
+modules:
+  - faqbot
+main_class: FAQBot
+config: true
+extra_files:
+  - base-config.yaml

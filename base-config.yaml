@@ -1,0 +1,6 @@
+command_prefix: faq
+entries:
+  faq: "FAQ bot replies with a long answer when prompted with a short topic name. This helps users quickly answer
+        some frequently asked questions, by issuing a short command, like `!faq topic-in-question`. For example,
+        if you ask me \"What is this faqbot thing doing in my room?\", I can just type `!faq faq`, and the bot will
+        reply with this text. Never again will I have to explain what does FAQ bot do myself!"
